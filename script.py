@@ -52,9 +52,7 @@ class Youtube_extract(object):
         self.keyindex = 0
 #        with open(key_path, "r") as file:
 #            self.keylist = [key.strip() for key in file.readlines()]
-        self.keylist = ["AIzaSyBLuKB_DU4NmGca6XGW5-BcYSxBB_2OmiA","AIzaSyD-vYPQUQGEAm3ikj-_nrrzOeU2B04MQbU","AIzaSyDCWWX_Jd1iGzXaUHs7y_6_zpgejzGG-V0","AIzaSyBHiE5t86GKVX-YuKrV-09flVtZ1R1s6mA","AIzaSyA5DvbaMHuyBcxm2M2IpjPPNy9QE75Ih_0","AIzaSyA9ATHIxgXkufcM5GTDZco9FRrlZMmT8o0","AIzaSyA9B1fdtDrfSPFy5alUTYmosVnWhtFuwe4","AIzaSyAaO1JqWWUkQ8ygQZZlSOuv4ZPvw1w5sJ4",
-                         "AIzaSyABwGg6pnU4VuZil54sbLACdRhVD-ogxIc","AIzaSyACBjYBN7CzaPqEvXkbpsIFnXhxF061XF8","AIzaSyAcyo6AaTgnuzaW1TbjTrJChRdt-h1on2E", "AIzaSyAE9Z7Rot5-15x_nr1jeoORrSniUn5CQp0","AIzaSyBcAiKz6BMl35rwV7BGT3DuztYQPtQUDJc"
-                        ]
+        self.keylist = ["AIzaSyBLuKB"]
         #AIzaSyBHiE5t86GKVX-YuKrV-09flVtZ1R1s6mA
         #AIzaSyBtsUWrMb9wtn7yhx0-NcquACQ7E8o1VBo
     global keychange
